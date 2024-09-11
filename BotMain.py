@@ -56,4 +56,3 @@ async def on_member_join(member):
     await verificationChannel.send(f'Welcome to the BOSS Discord server! {member.mention} please type verify in this channel to begin the verification process.')
 
 
-client.run("MTI4MTQyMDE1Mjc5Mjk0NDcxMA.G8NrjR.qVdvoh-GLED9Rxojprwd3YAm5gvQqifruMLXJk")
